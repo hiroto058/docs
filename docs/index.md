@@ -2,8 +2,7 @@
 ・所属大学
 ⇨[開志専門職大学](https://kaishi-pu.ac.jp)
 ・所属学部
-⇨情報学部
-・[開志専門職大学　米山キャンパス](https://shingakunet.com/gakko/SC006695/map/21658/)
+⇨情報学部[開志専門職大学　米山キャンパス](https://shingakunet.com/gakko/SC006695/map/21658/)
 
 ##趣味
 ・ランニング
